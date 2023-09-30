@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Spaghetti Bolognese",
+        "type": ["Pasta", "Italian"],
+        "description": "A classic Italian pasta dish with a rich and meaty sauce.",
+        "ingredients": [
+            {"name": "Spaghetti", "quantity": "200g"},
+            {"name": "Ground Beef", "quantity": "500g"},
+            {"name": "Tomato Sauce", "quantity": "400g"},
+            {"name": "Garlic", "quantity": "3 cloves"},
+            {"name": "Onion", "quantity": "1 large"}
+        ],
+        "instructions": [
+            "Heat olive oil in a large skillet over medium heat.",
+            "Add chopped onions and minced garlic, sauté until onions are translucent.",
+            "Add ground beef and cook until browned, breaking it apart with a spoon.",
+            "Pour in the tomato sauce and simmer for 15-20 minutes, stirring occasionally.",
+            "While the sauce is simmering, cook spaghetti according to package instructions.",
+            "Serve the Bolognese sauce over cooked spaghetti."
+        ]
+    }
+]
